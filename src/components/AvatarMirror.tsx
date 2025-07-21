@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Smile, Frown, Angry, Surprise, Meh, Fearful, Disgusted } from 'lucide-react';
+import { Smile, Frown, Angry, Sunrise as Surprise, Meh, Heart as Fearful, Asterisk as Disgusted } from 'lucide-react';
 
 interface EmotionData {
   emotion: string;
