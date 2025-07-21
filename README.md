@@ -17,7 +17,7 @@ A comprehensive, production-ready web interface for facial emotion recognition w
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://shiny-crepe-effe42.netlify.app](https://shiny-crepe-effe42.netlify.app)
+Visit the live application: **[https://shiny-crepe-effe42.netlify.app](https://shiny-crepe-effe42.netlify.app)**
 
 ## 🛠️ Technology Stack
 
